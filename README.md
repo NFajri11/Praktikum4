@@ -22,5 +22,5 @@ Dan berikut adalah hasil dari program sederhana yang telat dibuat
 *Jika menjawab "t" maka perintah selesai dan keluar output hasil inputan  <br />
 *Dengan cara ini kita bisa menginput lebih dari 1 inputan atau sesuai yang kita inginkan.  <br />
  ## Flowchart
- ![gambar7](Screenshot/)
+ ![gambar7](Screenshot/) 
 
