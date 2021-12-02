@@ -2,19 +2,19 @@
 
 ## Latihan
 Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
-![gambar1](screenshot/ss1.png)
+![gambar1](Screenshot/ss1.png)
 Berikut program sederhana yang telah dibuat :
-![gambar2](screenshot/ss2.png)
+![gambar2](Screenshot/ss2.png)
 Dan berikut adalah hasil dari program sederhana yang telat dibuat
-![gambar3](screenshotss3./ss3.png)
+![gambar3](Screenshotss3./ss3.png)
 
  ## Tugas Praktikum
  Berikut adalah tugas nya , bisa dilihat pada gambar dibawah ini :
- ![gambar4](screenshot/ss4.png)
+ ![gambar4](Screenshot/ss4.png)
  Berikut program sederhana yang telat dibuat :
- ![gambar5](screenshot/ss5.png)
+ ![gambar5](Screenshot/ss5.png)
  Dan ini adalah hasil dari program yang telah dibuat :
- ![gambar6](screenshot/ss6.png)
+ ![gambar6](Screenshot/ss6.png)
  *Dengan menggunakan fungsi list untuk program input pada coding ini,yaitu  <br />
  menggunakan Pyton ListMethod : Append() menambahkan item dari belakang  <br />
 *Menggunakan perintah while untuk mengulang pertanyaan yang akan diinputkan  <br />
@@ -22,5 +22,5 @@ Dan berikut adalah hasil dari program sederhana yang telat dibuat
 *Jika menjawab "t" maka perintah selesai dan keluar output hasil inputan  <br />
 *Dengan cara ini kita bisa menginput lebih dari 1 inputan atau sesuai yang kita inginkan.  <br />
  ## Flowchart
- ![gambar7](screenshot/)
+ ![gambar7](Screenshot/)
 
